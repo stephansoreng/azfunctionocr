@@ -5,4 +5,4 @@ Needed services_
 * Cosmos DB
 * Azure Function
 
-In addition this could be used together with the "SimpleCosmosDbWebApp" To view the results of the OCR analysis.
+In addition this could be used together with the "SimpleCosmosDbWebApp" To view the results of the OCR analysis. (https://github.com/stephansoreng/simpleCosmosDbWebApp)
