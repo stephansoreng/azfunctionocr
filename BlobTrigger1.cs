@@ -37,6 +37,7 @@ namespace Company.Function
                 {
                     // create a random ID
                     id = System.Guid.NewGuid().ToString(),
+                    date = DateTime.Now,
                     text = myText
                 });
             }
