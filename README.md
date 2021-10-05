@@ -10,4 +10,4 @@ Needed services:
 
 In addition this could be used together with the "SimpleCosmosDbWebApp" To view the results of the OCR analysis. (https://github.com/stephansoreng/simpleCosmosDbWebApp)
 
-TODO: Use Terraform to create needed services/infrastructure
+Terraform has been used to get IaC: https://github.com/stephansoreng/ocrinfrastructure
